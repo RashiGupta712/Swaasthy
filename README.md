@@ -5,31 +5,6 @@
 
 Swaasthy is an app made to uplift user's health. It contains everything from medicine reminder functionality to make an SOS call to nearby ambulances to getting an appointment with a virtual doc. We believe that this is a revolutionary step necessary in bringing down the death-rate due to delay faced by patients in our country.
 
-## Project Info
-The contents in this project follow the following structure, where all views are containerised into screens.
-
-├───models
-|
-├───screens
-│   ├───auth
-│   ├───consult
-│   ├───emergency
-│   ├───forums
-│   ├───home
-│   ├───reminder
-│   └───stats
-|
-├───services
-│
-├───shared_widgets
-│
-└───utils
-
-Each individual screen in the above, follow this structure
-screen
-  ├──local_widgets
-  └──index.dart
-
 ## Constants
 This project uses 'Product Sans' as it's primary font, with weights of 400 and 600. All the fonts have been pre-imported.
 
