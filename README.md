@@ -1,8 +1,7 @@
 # Swaasthy
 ## A Google DSC Solution Challenge submission
 
-![Disease-Map](https://user-images.githubusercontent.com/65770068/160840570-79dbd5db-6603-4731-845b-38ec53dce73b.png)
-
+![hero](https://user-images.githubusercontent.com/65770068/160841669-96839e12-d502-4c8d-b44a-1101f32cd508.png)
 
 Swaasthy is an app made to uplift user's health. It contains everything from medicine reminder functionality to make an SOS call to nearby ambulances to getting an appointment with a virtual doc. We believe that this is a revolutionary step necessary in bringing down the death-rate due to delay faced by patients in our country.
 
@@ -59,6 +58,13 @@ All the design/mockups for the app have been added in the designs directory. You
 ![hero - Copy](https://user-images.githubusercontent.com/65770068/160840638-d50ccc26-b595-4264-8a60-4ae4187afadf.png)
 
 4. For storing the different types of data including user data, posts for the forum, ambulances, insights for the heatmap, doctors, appointments etc. we chose Cloud Firestore because of its robust features and ability to query & filter out documents with ease.
+
+![1](https://user-images.githubusercontent.com/65770068/160841767-c4944eaa-29d9-41b8-a63e-e697d9d1a080.png)
+![2](https://user-images.githubusercontent.com/65770068/160841794-7af47b0e-9034-4747-8f1f-2f6cd89b15f3.png)
+![3](https://user-images.githubusercontent.com/65770068/160841825-5e9c7a4b-db5f-48dd-8a44-519072ba5f1b.png)
+![4](https://user-images.githubusercontent.com/65770068/160841852-efb6e6c3-fcf7-4bf2-89af-9ac8f46b17bd.jpg)
+![5](https://user-images.githubusercontent.com/65770068/160841881-a44ec6c1-4cfd-4a92-8e70-7898bf7a3a19.png)
+
 
 5. For verifying the medical volunteer ID Card Image, we used Firebase ML Kit, specifically the text recognition service.
 
