@@ -55,8 +55,6 @@ All the design/mockups for the app have been added in the designs directory. You
 
 3. For sign-up & authentication, we used Firebase auth. If you're a medical volunteer, we'll ask you to upload an image of your medical ID card and we're using firebase ml kit for verification.
 
-![hero - Copy](https://user-images.githubusercontent.com/65770068/160840638-d50ccc26-b595-4264-8a60-4ae4187afadf.png)
-
 4. For storing the different types of data including user data, posts for the forum, ambulances, insights for the heatmap, doctors, appointments etc. we chose Cloud Firestore because of its robust features and ability to query & filter out documents with ease.
 
 ![1](https://user-images.githubusercontent.com/65770068/160841767-c4944eaa-29d9-41b8-a63e-e697d9d1a080.png)
