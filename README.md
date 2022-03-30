@@ -41,16 +41,12 @@ All the design/mockups for the app have been added in the designs directory. You
 
 4. For storing the different types of data including user data, posts for the forum, ambulances, insights for the heatmap, doctors, appointments etc. we chose Cloud Firestore because of its robust features and ability to query & filter out documents with ease.
 
-![1](https://user-images.githubusercontent.com/65770068/160841767-c4944eaa-29d9-41b8-a63e-e697d9d1a080.png)
-![2](https://user-images.githubusercontent.com/65770068/160841794-7af47b0e-9034-4747-8f1f-2f6cd89b15f3.png)
-![3](https://user-images.githubusercontent.com/65770068/160841825-5e9c7a4b-db5f-48dd-8a44-519072ba5f1b.png)
-![4](https://user-images.githubusercontent.com/65770068/160841852-efb6e6c3-fcf7-4bf2-89af-9ac8f46b17bd.jpg)
-![5](https://user-images.githubusercontent.com/65770068/160841881-a44ec6c1-4cfd-4a92-8e70-7898bf7a3a19.png)
+<img width="595" alt="Screenshot 2022-03-30 184344" src="https://user-images.githubusercontent.com/65770068/160843290-a6d03616-bf31-40a1-bcf6-b7bdc0bfb1cb.png">
 
 
 5. For verifying the medical volunteer ID Card Image, we used Firebase ML Kit, specifically the text recognition service.
 
-6.To enable image posting in forums, and to store the volunteer image we used firebase cloud storage.
+6. To enable image posting in forums, and to store the volunteer image we used firebase cloud storage.
 
 7. For handling payments, we used Razorpay SDK, which allowed us to accept payments for doctor appointment booking using Google Pay.
 
